@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Something",
+      "image": "https://cdn.shopify.com/s/files/1/1706/1307/products/Cordyline-fruticosa-Glauca-Green-Ti-Plant-Large.jpg?v=1560242928",
+      "price": "222",
+      "id": 8
+    },
+    {
+      "name": "fdsfdffafafds",
+      "image": "https://cdn.shopify.com/s/files/1/1706/1307/products/Cordyline-fruticosa-Glauca-Green-Ti-Plant-Large.jpg?v=1560242928",
+      "price": "3333",
+      "id": 9
     }
   ]
 }
